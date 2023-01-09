@@ -1,0 +1,16 @@
+code --install-extension alefragnani.Bookmarks
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension jasonlhy.hungry-delete
+code --install-extension kamikillerto.vscode-colorize
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode.remote-explorer
+code --install-extension PKief.material-icon-theme
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.LiveServer
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension Vue.volar
+code --install-extension yzhang.markdown-all-in-one
